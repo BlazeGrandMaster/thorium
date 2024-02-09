@@ -1,0 +1,6 @@
+2024/01/28-13:32:48.496 5703 Creating DB /home/blaze/.config/thorium/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb since it was missing.
+2024/01/28-13:32:48.500 5703 Reusing MANIFEST /home/blaze/.config/thorium/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/28-14:06:41.445 5703 Level-0 table #5: started
+2024/01/28-14:06:41.446 5703 Level-0 table #5: 3863 bytes OK
+2024/01/28-14:06:41.448 5703 Delete type=0 #3
+2024/01/28-14:06:41.448 5703 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

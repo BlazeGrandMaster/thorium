@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital@0;1&display=swap");
+
+div.saveimgtype {
+  top: 0 !important;
+  left: 0 !important;
+  margin: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  display: flex !important;
+  position: fixed !important;
+  z-index: 9999999 !important;
+  align-items: center !important;
+  justify-content: center !important;
+  background: rgb(238 238 238 / 75%) !important;
+  font-family: "Source Sans 3", sans-serif !important;
+}
+div.saveimgtype .s-contain {
+  min-width: 520px !important;
+  background: white !important;
+  border-radius: 10px !important;
+  border: 2px solid #e91e63 !important;
+  box-shadow: 0 10px 16px #e0e0e0 !important;
+}
+div.saveimgtype .header {
+  padding: 10px !important;
+  text-align: center !important;
+  position: relative !important;
+  border-bottom: 1px solid #eeeeee;
+}
+div.saveimgtype .header .sslogo {
+  max-height: 76px !important;
+  filter: none !important;
+  display: inline !important;
+}
+div.saveimgtype .header h2.app-name {
+  font-size: 1.25rem !important;
+}
+div.saveimgtype form {
+  gap: 1rem !important;
+  padding: 1rem !important;
+  display: flex !important;
+  align-items: center !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+}
+div.saveimgtype form button {
+  height: 40px !important;
+  width: 100% !important;
+  color: white !important;
+  cursor: pointer !important;
+  font-weight: bold !important;
+  border-radius: 6px !important;
+  background: #e91e63 !important;
+  transition: all 0.25s ease !important;
+  border: 1px solid #e91e63 !important;
+  box-shadow: 0 2px 18px #fd92b6 !important;
+}
+div.saveimgtype form button:hover {
+  background-color: #e50954 !important;
+  box-shadow: 0 2px 8px #fd92b6 !important;
+}
+div.saveimgtype input[type="radio"],
+div.saveimgtype input[type="checkbox"] {
+  margin: 0 !important;
+  position: unset !important;
+  height: 1rem !important;
+  width: 1rem !important;
+  opacity: 1 !important;
+}
+div.saveimgtype form input {
+  font-size: 1rem !important;
+  border-radius: 6px !important;
+  padding: 0.75rem 1rem !important;
+  border: 1px solid #e0e0e0 !important;
+}
+div.saveimgtype button.cls-button {
+  top: 1rem !important;
+  right: 1rem !important;
+  height: 30px !important;
+  width: 30px !important;
+  opacity: 0.45 !important;
+  cursor: pointer !important;
+  position: absolute !important;
+  font-size: 22px !important;
+  border-radius: 50% !important;
+  line-height: 1 !important;
+  border: 1px solid #e0e0e0 !important;
+  transition: all 0.25s ease !important;
+}
+div.saveimgtype button.cls-button:hover {
+  opacity: 1 !important;
+  box-shadow: 0 2px 18px #bdbdbd !important;
+}
+div.saveimgtype .footer {
+  font-size: 1rem !important;
+  font-style: italic !important;
+  text-align: center !important;
+}
+div.saveimgtype form .form-inpts {
+  width: 100% !important;
+  padding: 0 1rem !important;
+  justify-content: space-between !important;
+}
+div.saveimgtype .m-0 {
+  margin: 0 !important;
+}
+div.saveimgtype .p-1 {
+  padding: 0.5rem !important;
+}
+div.saveimgtype .p-2 {
+  padding: 1rem !important;
+}
+div.saveimgtype .font-1rem {
+  font-size: 1rem !important;
+}
+div.saveimgtype .pointer {
+  cursor: pointer !important ;
+}
+div.saveimgtype .flex-item {
+  gap: 1rem !important;
+  display: flex !important;
+  align-items: center !important;
+}
+div.saveimgtype .gconfigs {
+  padding: 0.5rem 1rem !important;
+  border-radius: 10px !important;
+  background-color: #eeeeee !important;
+}
+div.saveimgtype .gconfigs h4 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 1rem !important;
+}
+div.saveimgtype .gconfigs > .flex-item {
+  gap: 0.5rem !important;
+  margin-bottom: 10px !important;
+}
+div.saveimgtype .underline {
+  text-decoration: underline !important;
+}
+/* button.gif-download {
+  z-index: 999999 !important;
+  border: 0 !important;
+  right: 5px !important;
+  bottom: 5px !important;
+  width: 35px !important;
+  height: 35px !important;
+  padding: 5px !important;
+  cursor: pointer !important;
+  position: absolute !important;
+  border-radius: 50% !important;
+  background: white !important;
+  box-shadow: 0 0 10px rgb(0 0 0 / 50%) !important;
+} */

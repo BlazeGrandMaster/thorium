@@ -1,0 +1,22 @@
+2024/02/08-21:54:49.032 11e1 Reusing MANIFEST /home/blaze/.config/thorium/Default/Local Extension Settings/mfidniedemcgceagapgdekdbmanojomk/MANIFEST-000001
+2024/02/08-21:54:49.034 11e1 Recovering log #189
+2024/02/08-21:54:49.034 11e1 Reusing old log /home/blaze/.config/thorium/Default/Local Extension Settings/mfidniedemcgceagapgdekdbmanojomk/000189.log 
+2024/02/08-22:09:17.453 11bb Compacting 1@1 + 2@2 files
+2024/02/08-22:09:17.468 11bb Generated table #192@1: 9 keys, 2306069 bytes
+2024/02/08-22:09:17.470 11bb Generated table #193@1: 10 keys, 3839 bytes
+2024/02/08-22:09:17.470 11bb Compacted 1@1 + 2@2 files => 2309908 bytes
+2024/02/08-22:09:17.472 11bb compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/08-22:09:17.472 11bb Delete type=2 #186
+2024/02/08-22:09:17.472 11bb Delete type=2 #187
+2024/02/08-22:09:17.472 11bb Delete type=2 #190
+2024/02/08-23:35:03.783 11bb Level-0 table #195: started
+2024/02/08-23:35:03.795 11bb Level-0 table #195: 2706225 bytes OK
+2024/02/08-23:35:03.797 11bb Delete type=0 #189
+2024/02/08-23:38:51.085 11bb Compacting 1@1 + 2@2 files
+2024/02/08-23:38:51.102 11bb Generated table #196@1: 10 keys, 2419209 bytes
+2024/02/08-23:38:51.104 11bb Generated table #197@1: 10 keys, 3674 bytes
+2024/02/08-23:38:51.104 11bb Compacted 1@1 + 2@2 files => 2422883 bytes
+2024/02/08-23:38:51.106 11bb compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/02/08-23:38:51.106 11bb Delete type=2 #192
+2024/02/08-23:38:51.106 11bb Delete type=2 #193
+2024/02/08-23:38:51.106 11bb Delete type=2 #195

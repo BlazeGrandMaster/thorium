@@ -1,0 +1,6 @@
+2024/02/08-16:29:11.860 5ba Creating DB /home/blaze/.config/thorium/Default/WebStorage/46/IndexedDB/indexeddb.leveldb since it was missing.
+2024/02/08-16:29:11.867 5ba Reusing MANIFEST /home/blaze/.config/thorium/Default/WebStorage/46/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/02/08-16:32:20.863 5b9 Level-0 table #5: started
+2024/02/08-16:32:20.865 5b9 Level-0 table #5: 43514 bytes OK
+2024/02/08-16:32:20.867 5b9 Delete type=0 #3
+2024/02/08-16:32:20.867 5b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,30 @@
+2024/02/08-23:36:54.553 11bd Reusing MANIFEST /home/blaze/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/08-23:36:54.553 11bd Recovering log #63
+2024/02/08-23:36:54.566 11bd Reusing old log /home/blaze/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000063.log 
+2024/02/08-23:36:54.953 11bd Level-0 table #68: started
+2024/02/08-23:36:54.961 11bd Level-0 table #68: 1260034 bytes OK
+2024/02/08-23:36:54.965 11bd Delete type=0 #63
+2024/02/08-23:36:54.975 11ba Compacting 1@1 + 1@2 files
+2024/02/08-23:36:54.979 11ba Generated table #69@1: 806 keys, 75723 bytes
+2024/02/08-23:36:54.979 11ba Compacted 1@1 + 1@2 files => 75723 bytes
+2024/02/08-23:36:54.981 11ba compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/08-23:36:54.981 11ba Delete type=2 #65
+2024/02/08-23:36:54.981 11ba Delete type=2 #68
+2024/02/08-23:58:46.653 11bb Level-0 table #71: started
+2024/02/08-23:58:46.660 11bb Level-0 table #71: 1100381 bytes OK
+2024/02/08-23:58:46.663 11bb Delete type=0 #67
+2024/02/09-00:04:35.088 11bb Compacting 1@1 + 1@2 files
+2024/02/09-00:04:35.093 11bb Generated table #72@1: 1041 keys, 89093 bytes
+2024/02/09-00:04:35.093 11bb Compacted 1@1 + 1@2 files => 89093 bytes
+2024/02/09-00:04:35.094 11bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/09-00:04:35.095 11bb Delete type=2 #69
+2024/02/09-00:04:35.095 11bb Delete type=2 #71
+2024/02/09-00:23:51.927 11bb Level-0 table #74: started
+2024/02/09-00:23:51.934 11bb Level-0 table #74: 1070708 bytes OK
+2024/02/09-00:23:51.937 11bb Delete type=0 #70
+2024/02/09-00:25:45.667 11bb Compacting 1@1 + 1@2 files
+2024/02/09-00:25:45.672 11bb Generated table #75@1: 800 keys, 102196 bytes
+2024/02/09-00:25:45.672 11bb Compacted 1@1 + 1@2 files => 102196 bytes
+2024/02/09-00:25:45.674 11bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/09-00:25:45.674 11bb Delete type=2 #72
+2024/02/09-00:25:45.674 11bb Delete type=2 #74

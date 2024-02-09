@@ -1,0 +1,39 @@
+{
+   "background": {
+      "scripts": [ "./js/jspdf.debug.js", "./js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/icon128.png"
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://smartwebfinders.com/favicon.ico",
+         "is_default": true,
+         "keyword": "Smart",
+         "name": "Smart",
+         "search_url": "https://smartwebfinders.com/?n=2&q={searchTerms}"
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "./styles.css" ],
+      "js": [ "./js/jquery-3.6.0.min.js", "./js/contentScript.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Save image as PNG, JPG, PDF, or WebP by context menu (Right-Clicking) on image.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "144": "icons/icon144.png",
+      "192": "icons/icon192.png",
+      "48": "icons/icon48.png",
+      "72": "icons/icon72.png",
+      "96": "icons/icon96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgDC5AZYzzQ26cw+BuwnhDb5ULRIVr3cXwdrHfGNjtcchwD2kSmqWgU+JfvjUs4GJR1eK1x7mJ+xN+E0yv0asiL6fw4f2vvEnEncAJMvIcAF4BfN72fMkUdUv/fIs/I/G6juPC5A+LwOCk3G+mt28RuvWmYPkICVsb+QYUGE2cTkXmhlKDjUAhXyDUzIMm0I1T9F7jixtktLb+tpPhCuvKCWJAaKQTLfk1Se0o27YV6Qp0Vu77GiuM3kELnnVBJ8QnJqHKQFKqVvFd7mshyC3/hM9SQMLqVkV9fCYgRKscfzOymeGw/tBVnh6+vxb4n9eX5Wrm3gEHkFUK6vAtO4FhQIDAQAB",
+   "manifest_version": 2,
+   "name": "Save Image by Right Click: PNG, JPG, or WebP",
+   "permissions": [ "downloads", "contextMenus", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.5",
+   "web_accessible_resources": [ "icons/*" ]
+}

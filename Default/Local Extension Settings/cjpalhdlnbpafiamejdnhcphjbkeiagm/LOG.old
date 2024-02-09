@@ -1,0 +1,39 @@
+2024/02/08-21:54:49.023 11e1 Reusing MANIFEST /home/blaze/.config/thorium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/02/08-21:54:49.023 11e1 Recovering log #391
+2024/02/08-21:54:49.029 11e1 Reusing old log /home/blaze/.config/thorium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000391.log 
+2024/02/08-21:56:34.605 11bb Level-0 table #399: started
+2024/02/08-21:56:34.616 11bb Level-0 table #399: 2177258 bytes OK
+2024/02/08-21:56:34.618 11bb Delete type=0 #391
+2024/02/08-21:56:34.690 11bb Level-0 table #401: started
+2024/02/08-21:56:34.700 11bb Level-0 table #401: 1441990 bytes OK
+2024/02/08-21:56:34.702 11bb Delete type=0 #398
+2024/02/08-21:56:34.972 11bb Level-0 table #403: started
+2024/02/08-21:56:34.985 11bb Level-0 table #403: 2677394 bytes OK
+2024/02/08-21:56:34.988 11bb Delete type=0 #400
+2024/02/08-21:58:35.072 11bb Level-0 table #405: started
+2024/02/08-21:58:35.088 11bb Level-0 table #405: 3535864 bytes OK
+2024/02/08-21:58:35.091 11bb Delete type=0 #402
+2024/02/08-21:58:35.092 11bb Compacting 4@0 + 4@1 files
+2024/02/08-21:58:35.116 11bb Generated table #406@0: 11 keys, 2724905 bytes
+2024/02/08-21:58:35.134 11bb Generated table #407@0: 9 keys, 2779174 bytes
+2024/02/08-21:58:35.152 11bb Generated table #408@0: 2 keys, 2457865 bytes
+2024/02/08-21:58:35.159 11bb Generated table #409@0: 11 keys, 774562 bytes
+2024/02/08-21:58:35.159 11bb Compacted 4@0 + 4@1 files => 8736506 bytes
+2024/02/08-21:58:35.161 11bb compacted to: files[ 0 4 1 0 0 0 0 ]
+2024/02/08-21:58:35.161 11bb Delete type=2 #393
+2024/02/08-21:58:35.161 11bb Delete type=2 #394
+2024/02/08-21:58:35.161 11bb Delete type=2 #395
+2024/02/08-21:58:35.161 11bb Delete type=2 #396
+2024/02/08-21:58:35.161 11bb Delete type=2 #399
+2024/02/08-21:58:35.161 11bb Delete type=2 #401
+2024/02/08-21:58:35.161 11bb Delete type=2 #403
+2024/02/08-21:58:35.161 11bb Delete type=2 #405
+2024/02/09-00:56:35.078 11bb Level-0 table #411: started
+2024/02/09-00:56:35.089 11bb Level-0 table #411: 2176679 bytes OK
+2024/02/09-00:56:35.092 11bb Delete type=0 #404
+2024/02/09-00:58:35.555 11bb Level-0 table #413: started
+2024/02/09-00:58:35.569 11bb Level-0 table #413: 2615841 bytes OK
+2024/02/09-00:58:35.572 11bb Delete type=0 #410
+2024/02/09-00:58:35.576 11bb Level-0 table #415: started
+2024/02/09-00:58:35.592 11bb Level-0 table #415: 3238440 bytes OK
+2024/02/09-00:58:35.594 11bb Delete type=0 #412

@@ -1,0 +1,13 @@
+2024/02/09-01:23:31.130 1b1e8 Reusing MANIFEST /home/blaze/.config/thorium/Default/Local Extension Settings/mfidniedemcgceagapgdekdbmanojomk/MANIFEST-000001
+2024/02/09-01:23:31.130 1b1e8 Recovering log #194
+2024/02/09-01:23:31.132 1b1e8 Reusing old log /home/blaze/.config/thorium/Default/Local Extension Settings/mfidniedemcgceagapgdekdbmanojomk/000194.log 
+2024/02/09-01:23:36.362 1b1c2 Level-0 table #200: started
+2024/02/09-01:23:36.377 1b1c2 Level-0 table #200: 3291482 bytes OK
+2024/02/09-01:23:36.381 1b1c2 Delete type=0 #194
+2024/02/09-01:36:17.452 1b1c1 Compacting 1@1 + 2@2 files
+2024/02/09-01:36:17.470 1b1c1 Generated table #201@1: 13 keys, 2057874 bytes
+2024/02/09-01:36:17.470 1b1c1 Compacted 1@1 + 2@2 files => 2057874 bytes
+2024/02/09-01:36:17.472 1b1c1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/09-01:36:17.472 1b1c1 Delete type=2 #196
+2024/02/09-01:36:17.472 1b1c1 Delete type=2 #197
+2024/02/09-01:36:17.472 1b1c1 Delete type=2 #200

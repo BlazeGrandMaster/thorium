@@ -1,0 +1,30 @@
+2024/02/07-04:34:04.478 19ac5 Reusing MANIFEST /home/blaze/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/07-04:34:04.478 19ac5 Recovering log #10
+2024/02/07-04:34:04.480 19ac5 Reusing old log /home/blaze/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000010.log 
+2024/02/07-04:34:06.743 19ac5 Compacting 1@1 + 1@2 files
+2024/02/07-04:34:06.749 19ac5 Generated table #13@1: 241 keys, 533183 bytes
+2024/02/07-04:34:06.749 19ac5 Compacted 1@1 + 1@2 files => 533183 bytes
+2024/02/07-04:34:06.751 19ac5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-04:34:06.751 19ac5 Delete type=2 #9
+2024/02/07-04:34:06.752 19ac5 Delete type=2 #11
+2024/02/07-09:09:01.562 19ac8 Level-0 table #15: started
+2024/02/07-09:09:01.577 19ac8 Level-0 table #15: 2682304 bytes OK
+2024/02/07-09:09:01.580 19ac8 Delete type=0 #10
+2024/02/07-09:09:18.461 19b02 Compacting 1@1 + 1@2 files
+2024/02/07-09:09:18.468 19b02 Generated table #16@1: 194 keys, 319861 bytes
+2024/02/07-09:09:18.468 19b02 Compacted 1@1 + 1@2 files => 319861 bytes
+2024/02/07-09:09:18.470 19b02 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-09:09:18.470 19b02 Delete type=2 #13
+2024/02/07-09:09:18.470 19b02 Delete type=2 #15
+2024/02/07-09:13:23.573 19ac6 Level-0 table #18: started
+2024/02/07-09:13:23.582 19ac6 Level-0 table #18: 1783885 bytes OK
+2024/02/07-09:13:23.585 19ac6 Delete type=0 #14
+2024/02/07-09:13:23.585 19ac6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/07-09:13:23.585 19ac6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 11241 : 0
+2024/02/07-09:13:23.585 19ac6 Compacting 1@1 + 1@2 files
+2024/02/07-09:13:23.589 19ac6 Generated table #19@1: 133 keys, 148146 bytes
+2024/02/07-09:13:23.589 19ac6 Compacted 1@1 + 1@2 files => 148146 bytes
+2024/02/07-09:13:23.591 19ac6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/07-09:13:23.591 19ac6 Delete type=2 #16
+2024/02/07-09:13:23.591 19ac6 Delete type=2 #18
+2024/02/07-09:13:23.591 19ac6 Manual compaction at level-1 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 11241 : 0 .. (end); will stop at (end)

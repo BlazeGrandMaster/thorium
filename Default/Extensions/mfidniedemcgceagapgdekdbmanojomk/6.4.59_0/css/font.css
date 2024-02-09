@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'cpui-iconfont';
+    src: url('../font/iconfont.woff2?v=1') format('woff2'),
+        url('../font/iconfont.woff?v=1') format('woff'),
+        url('../font/iconfont.ttf?v=1') format('truetype');
+}
+
+@font-face {
+    font-family: 'CP-Poppins';
+    font-weight: 400;
+    src: url('../font/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: 'CP-Poppins';
+    font-weight: 400;
+    src: url('../font/Poppins-Regular.ttf');
+    unicode-range: U+41-5a;
+}
+@font-face {
+    font-family: 'CP-Poppins';
+    font-weight: 400;
+    src: url('../font/Poppins-Regular.ttf');
+    unicode-range: U+61-7a;
+}
+
+@font-face {
+    font-family: 'CP-Poppins';
+    font-weight: 600;
+    src: url('../font/Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: 'CP-Poppins';
+    font-weight: 600;
+    src: url('../font/Poppins-Medium.ttf');
+    unicode-range: U+41-5a;
+}
+@font-face {
+    font-family: 'CP-Poppins';
+    font-weight: 600;
+    src: url('../font/Poppins-Medium.ttf');
+    unicode-range: U+61-7a;
+}
+
+@font-face {
+    font-family: 'CP-Poppins';
+    font-weight: 700;
+    src: url('../font/Poppins-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'CP-Poppins';
+    font-weight: 700;
+    src: url('../font/Poppins-SemiBold.ttf');
+    unicode-range: U+41-5a;
+}
+@font-face {
+    font-family: 'CP-Poppins';
+    font-weight: 700;
+    src: url('../font/Poppins-SemiBold.ttf');
+    unicode-range: U+61-7a;
+}

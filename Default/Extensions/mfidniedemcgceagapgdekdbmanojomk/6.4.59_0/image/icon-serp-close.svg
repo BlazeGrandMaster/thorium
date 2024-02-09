@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_close</title>
+    <g id="-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="" transform="translate(-1211.000000, -301.000000)" fill-rule="nonzero">
+            <g id="--4" transform="translate(838.000000, 284.000000)">
+                <g id="icon_close" transform="translate(373.000000, 17.000000)">
+                    <rect id="" fill="#000000" opacity="0" x="0" y="0" width="14" height="14"></rect>
+                    <polygon id="" fill="#999999" points="7.875 7 11.6666621 10.7916621 10.7916621 11.6666621 7 7.875 3.20833789 11.6666621 2.33333789 10.7916621 6.125 7 2.33333789 3.20833789 3.20833789 2.33333789 7 6.125 10.7916621 2.33333789 11.6666621 3.20833789"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

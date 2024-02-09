@@ -1,0 +1,6 @@
+2024/02/09-01:23:30.925 4 Reusing MANIFEST /home/blaze/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/02/09-01:23:30.926 4 Recovering log #365
+2024/02/09-01:23:30.926 4 Reusing old log /home/blaze/.config/thorium/Default/Local Storage/leveldb/000365.log 
+2024/02/09-01:27:22.104 6 Level-0 table #370: started
+2024/02/09-01:27:22.107 6 Level-0 table #370: 31183 bytes OK
+2024/02/09-01:27:22.109 6 Delete type=0 #365

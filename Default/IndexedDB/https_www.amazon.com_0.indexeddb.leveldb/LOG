@@ -1,0 +1,14 @@
+2024/02/08-18:19:25.557 fc15 Reusing MANIFEST /home/blaze/.config/thorium/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/08-18:19:25.557 fc15 Recovering log #25
+2024/02/08-18:19:25.557 fc15 Reusing old log /home/blaze/.config/thorium/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/000025.log 
+2024/02/08-18:19:25.557 fc15 Delete type=2 #23
+2024/02/08-18:19:27.147 fc15 Level-0 table #30: started
+2024/02/08-18:19:27.148 fc15 Level-0 table #30: 509 bytes OK
+2024/02/08-18:19:27.150 fc15 Delete type=0 #25
+2024/02/08-18:19:27.151 fc15 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 181 : 1
+2024/02/08-18:19:27.151 fc15 Compacting 1@0 + 1@1 files
+2024/02/08-18:19:27.152 fc15 Generated table #31@0: 14 keys, 496 bytes
+2024/02/08-18:19:27.152 fc15 Compacted 1@0 + 1@1 files => 496 bytes
+2024/02/08-18:19:27.153 fc15 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/08-18:19:27.154 fc15 Delete type=2 #30
+2024/02/08-18:19:27.154 fc15 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 181 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

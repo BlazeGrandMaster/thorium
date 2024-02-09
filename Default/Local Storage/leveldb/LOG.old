@@ -1,0 +1,82 @@
+2024/02/08-21:54:48.802 4 Reusing MANIFEST /home/blaze/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/02/08-21:54:48.807 4 Recovering log #334
+2024/02/08-21:54:48.816 4 Level-0 table #337: started
+2024/02/08-21:54:48.825 4 Level-0 table #337: 223943 bytes OK
+2024/02/08-21:54:48.826 4 Recovering log #336
+2024/02/08-21:54:48.831 4 Level-0 table #338: started
+2024/02/08-21:54:48.836 4 Level-0 table #338: 224783 bytes OK
+2024/02/08-21:54:48.852 4 Delete type=0 #334
+2024/02/08-21:54:48.852 4 Delete type=0 #336
+2024/02/08-21:54:48.852 4 Compacting 5@0 + 1@1 files
+2024/02/08-21:54:48.882 4 Generated table #340@0: 3674 keys, 941726 bytes
+2024/02/08-21:54:48.882 4 Compacted 5@0 + 1@1 files => 941726 bytes
+2024/02/08-21:54:48.889 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/08-21:54:48.890 4 Delete type=2 #328
+2024/02/08-21:54:48.890 4 Delete type=2 #330
+2024/02/08-21:54:48.890 4 Delete type=2 #333
+2024/02/08-21:54:48.890 4 Delete type=2 #335
+2024/02/08-21:54:48.890 4 Delete type=2 #337
+2024/02/08-21:54:48.890 4 Delete type=2 #338
+2024/02/08-23:36:39.018 6 Level-0 table #342: started
+2024/02/08-23:36:39.019 6 Level-0 table #342: 22460 bytes OK
+2024/02/08-23:36:39.021 6 Delete type=0 #339
+2024/02/08-23:45:05.805 6 Level-0 table #344: started
+2024/02/08-23:45:05.808 6 Level-0 table #344: 24007 bytes OK
+2024/02/08-23:45:05.810 6 Delete type=0 #341
+2024/02/09-00:00:32.045 6 Level-0 table #346: started
+2024/02/09-00:00:32.047 6 Level-0 table #346: 38927 bytes OK
+2024/02/09-00:00:32.050 6 Delete type=0 #343
+2024/02/09-00:12:27.903 6 Level-0 table #348: started
+2024/02/09-00:12:27.906 6 Level-0 table #348: 92824 bytes OK
+2024/02/09-00:12:27.910 6 Delete type=0 #345
+2024/02/09-00:12:27.911 6 Compacting 4@0 + 1@1 files
+2024/02/09-00:12:27.920 6 Generated table #349@0: 3811 keys, 1027979 bytes
+2024/02/09-00:12:27.920 6 Compacted 4@0 + 1@1 files => 1027979 bytes
+2024/02/09-00:12:27.923 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/09-00:12:27.923 6 Delete type=2 #340
+2024/02/09-00:12:27.923 6 Delete type=2 #342
+2024/02/09-00:12:27.923 6 Delete type=2 #344
+2024/02/09-00:12:27.923 6 Delete type=2 #346
+2024/02/09-00:12:27.923 6 Delete type=2 #348
+2024/02/09-00:15:54.546 6 Level-0 table #351: started
+2024/02/09-00:15:54.548 6 Level-0 table #351: 79960 bytes OK
+2024/02/09-00:15:54.550 6 Delete type=0 #347
+2024/02/09-00:23:46.356 6 Level-0 table #353: started
+2024/02/09-00:23:46.357 6 Level-0 table #353: 30736 bytes OK
+2024/02/09-00:23:46.360 6 Delete type=0 #350
+2024/02/09-00:38:31.100 6 Level-0 table #355: started
+2024/02/09-00:38:31.102 6 Level-0 table #355: 30531 bytes OK
+2024/02/09-00:38:31.104 6 Delete type=0 #352
+2024/02/09-00:44:19.378 6 Level-0 table #357: started
+2024/02/09-00:44:19.380 6 Level-0 table #357: 23526 bytes OK
+2024/02/09-00:44:19.382 6 Delete type=0 #354
+2024/02/09-00:44:19.382 6 Compacting 4@0 + 1@1 files
+2024/02/09-00:44:19.391 6 Generated table #358@0: 3863 keys, 1051764 bytes
+2024/02/09-00:44:19.391 6 Compacted 4@0 + 1@1 files => 1051764 bytes
+2024/02/09-00:44:19.393 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/09-00:44:19.393 6 Delete type=2 #349
+2024/02/09-00:44:19.393 6 Delete type=2 #351
+2024/02/09-00:44:19.393 6 Delete type=2 #353
+2024/02/09-00:44:19.393 6 Delete type=2 #355
+2024/02/09-00:44:19.393 6 Delete type=2 #357
+2024/02/09-00:46:23.230 6 Level-0 table #360: started
+2024/02/09-00:46:23.231 6 Level-0 table #360: 29130 bytes OK
+2024/02/09-00:46:23.234 6 Delete type=0 #356
+2024/02/09-01:03:05.889 6 Level-0 table #362: started
+2024/02/09-01:03:05.891 6 Level-0 table #362: 49308 bytes OK
+2024/02/09-01:03:05.893 6 Delete type=0 #359
+2024/02/09-01:08:04.587 6 Level-0 table #364: started
+2024/02/09-01:08:04.588 6 Level-0 table #364: 34631 bytes OK
+2024/02/09-01:08:04.592 6 Delete type=0 #361
+2024/02/09-01:14:35.270 6 Level-0 table #366: started
+2024/02/09-01:14:35.272 6 Level-0 table #366: 31675 bytes OK
+2024/02/09-01:14:35.274 6 Delete type=0 #363
+2024/02/09-01:14:35.274 6 Compacting 4@0 + 1@1 files
+2024/02/09-01:14:35.284 6 Generated table #367@0: 3934 keys, 1047976 bytes
+2024/02/09-01:14:35.284 6 Compacted 4@0 + 1@1 files => 1047976 bytes
+2024/02/09-01:14:35.288 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/09-01:14:35.288 6 Delete type=2 #358
+2024/02/09-01:14:35.288 6 Delete type=2 #360
+2024/02/09-01:14:35.288 6 Delete type=2 #362
+2024/02/09-01:14:35.288 6 Delete type=2 #364
+2024/02/09-01:14:35.288 6 Delete type=2 #366

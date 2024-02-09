@@ -1,0 +1,78 @@
+2024/02/08-21:54:48.875 7 Reusing MANIFEST /home/blaze/.config/thorium/Default/Session Storage/MANIFEST-000001
+2024/02/08-21:54:48.876 7 Recovering log #222
+2024/02/08-21:54:48.877 7 Reusing old log /home/blaze/.config/thorium/Default/Session Storage/000222.log 
+2024/02/08-23:39:16.506 6 Level-0 table #226: started
+2024/02/08-23:39:16.508 6 Level-0 table #226: 55162 bytes OK
+2024/02/08-23:39:16.510 6 Delete type=0 #222
+2024/02/08-23:39:16.510 6 Compacting 4@0 + 1@1 files
+2024/02/08-23:39:16.516 6 Generated table #227@0: 4352 keys, 122646 bytes
+2024/02/08-23:39:16.516 6 Compacted 4@0 + 1@1 files => 122646 bytes
+2024/02/08-23:39:16.518 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/08-23:39:16.518 6 Delete type=2 #216
+2024/02/08-23:39:16.518 6 Delete type=2 #218
+2024/02/08-23:39:16.518 6 Delete type=2 #221
+2024/02/08-23:39:16.518 6 Delete type=2 #223
+2024/02/08-23:39:16.518 6 Delete type=2 #226
+2024/02/08-23:40:11.414 6 Level-0 table #229: started
+2024/02/08-23:40:11.415 6 Level-0 table #229: 41200 bytes OK
+2024/02/08-23:40:11.417 6 Delete type=0 #225
+2024/02/08-23:42:11.414 6 Level-0 table #231: started
+2024/02/08-23:42:11.415 6 Level-0 table #231: 50743 bytes OK
+2024/02/08-23:42:11.417 6 Delete type=0 #228
+2024/02/08-23:42:34.926 6 Level-0 table #233: started
+2024/02/08-23:42:34.928 6 Level-0 table #233: 99645 bytes OK
+2024/02/08-23:42:34.930 6 Delete type=0 #230
+2024/02/09-00:02:25.458 6 Level-0 table #235: started
+2024/02/09-00:02:25.460 6 Level-0 table #235: 61293 bytes OK
+2024/02/09-00:02:25.462 6 Delete type=0 #232
+2024/02/09-00:02:25.462 6 Compacting 4@0 + 1@1 files
+2024/02/09-00:02:25.466 6 Generated table #236@0: 4413 keys, 329146 bytes
+2024/02/09-00:02:25.466 6 Compacted 4@0 + 1@1 files => 329146 bytes
+2024/02/09-00:02:25.468 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/09-00:02:25.468 6 Delete type=2 #227
+2024/02/09-00:02:25.468 6 Delete type=2 #229
+2024/02/09-00:02:25.468 6 Delete type=2 #231
+2024/02/09-00:02:25.468 6 Delete type=2 #233
+2024/02/09-00:02:25.468 6 Delete type=2 #235
+2024/02/09-00:02:45.202 6 Level-0 table #238: started
+2024/02/09-00:02:45.204 6 Level-0 table #238: 28041 bytes OK
+2024/02/09-00:02:45.206 6 Delete type=0 #234
+2024/02/09-00:04:35.356 6 Level-0 table #240: started
+2024/02/09-00:04:35.358 6 Level-0 table #240: 83662 bytes OK
+2024/02/09-00:04:35.360 6 Delete type=0 #237
+2024/02/09-00:23:46.366 6 Level-0 table #242: started
+2024/02/09-00:23:46.367 6 Level-0 table #242: 22503 bytes OK
+2024/02/09-00:23:46.370 6 Delete type=0 #239
+2024/02/09-00:47:14.663 6 Level-0 table #244: started
+2024/02/09-00:47:14.665 6 Level-0 table #244: 90495 bytes OK
+2024/02/09-00:47:14.667 6 Delete type=0 #241
+2024/02/09-00:47:14.667 6 Compacting 4@0 + 1@1 files
+2024/02/09-00:47:14.673 6 Generated table #245@0: 4505 keys, 521683 bytes
+2024/02/09-00:47:14.673 6 Compacted 4@0 + 1@1 files => 521683 bytes
+2024/02/09-00:47:14.674 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/09-00:47:14.675 6 Delete type=2 #236
+2024/02/09-00:47:14.675 6 Delete type=2 #238
+2024/02/09-00:47:14.675 6 Delete type=2 #240
+2024/02/09-00:47:14.675 6 Delete type=2 #242
+2024/02/09-00:47:14.675 6 Delete type=2 #244
+2024/02/09-00:47:59.165 6 Level-0 table #247: started
+2024/02/09-00:47:59.169 6 Level-0 table #247: 301964 bytes OK
+2024/02/09-00:47:59.171 6 Delete type=0 #243
+2024/02/09-01:07:22.505 4 Level-0 table #249: started
+2024/02/09-01:07:22.508 4 Level-0 table #249: 50568 bytes OK
+2024/02/09-01:07:22.510 4 Delete type=0 #246
+2024/02/09-01:09:00.769 6 Level-0 table #251: started
+2024/02/09-01:09:00.771 6 Level-0 table #251: 101894 bytes OK
+2024/02/09-01:09:00.773 6 Delete type=0 #248
+2024/02/09-01:09:36.595 6 Level-0 table #253: started
+2024/02/09-01:09:36.597 6 Level-0 table #253: 99397 bytes OK
+2024/02/09-01:09:36.600 6 Delete type=0 #250
+2024/02/09-01:09:36.600 6 Compacting 4@0 + 1@1 files
+2024/02/09-01:09:36.608 6 Generated table #254@0: 4582 keys, 1064357 bytes
+2024/02/09-01:09:36.608 6 Compacted 4@0 + 1@1 files => 1064357 bytes
+2024/02/09-01:09:36.610 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/09-01:09:36.610 6 Delete type=2 #245
+2024/02/09-01:09:36.611 6 Delete type=2 #247
+2024/02/09-01:09:36.611 6 Delete type=2 #249
+2024/02/09-01:09:36.611 6 Delete type=2 #251
+2024/02/09-01:09:36.611 6 Delete type=2 #253

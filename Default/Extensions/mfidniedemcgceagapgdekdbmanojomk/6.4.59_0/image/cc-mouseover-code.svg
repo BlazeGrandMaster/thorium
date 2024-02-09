@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284px" height="140px" viewBox="0 0 284 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M272.470588,50 C276.628968,50 280,53.3710325 280,57.5294118 L280,84 L280,84 C274.477153,84 270,88.4771525 270,94 C270,99.5228475 274.477153,104 280,104 L280,130.470588 C280,134.628968 276.628968,138 272.470588,138 L7.52941179,138 C3.37103248,138 4.06196827e-15,134.628968 0,130.470588 L0,104 L0,104 C5.5228475,104 10,99.5228475 10,94 C10,88.4771525 5.5228475,84 0,84 L0,57.5294118 C-5.09254591e-16,53.3710325 3.37103248,50 7.52941179,50 L272.470588,50 Z" id="path-1"></path>
+        <filter x="-1.1%" y="-3.4%" width="102.1%" height="106.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.898039216   0 0 0 0 0.305882353   0 0 0 0 0.219607843  0 0 0 0.315969187 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CC-" transform="translate(-2040.000000, -88.000000)">
+            <g id="-3" transform="translate(2042.000000, 88.000000)">
+                <g id="">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFF9F5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="--2" transform="translate(60.000000, 40.000000)">
+                    <ellipse id="" fill="#600C00" cx="6" cy="14" rx="6" ry="2"></ellipse>
+                    <path d="M3,0 L9,0 L9,11 C9,12.6568542 7.65685425,14 6,14 C4.34314575,14 3,12.6568542 3,11 L3,0 L3,0 Z" id="" fill="#FDE1D6"></path>
+                </g>
+                <g id="--3" transform="translate(216.000000, 40.000000)">
+                    <ellipse id="" fill="#600C00" cx="6" cy="14" rx="6" ry="2"></ellipse>
+                    <path d="M3,0 L9,0 L9,11 C9,12.6568542 7.65685425,14 6,14 C4.34314575,14 3,12.6568542 3,11 L3,0 L3,0 Z" id="" fill="#FDE1D6"></path>
+                </g>
+                <line x1="22.5" y1="94.5" x2="259.5" y2="94.5" stroke-opacity="0.397645323" stroke="#A5504E" stroke-linecap="square" stroke-dasharray="4"></line>
+                <path d="M4,0 L276,0 C278.209139,-4.05812251e-16 280,1.790861 280,4 L280,36 C280,38.209139 278.209139,40 276,40 L4,40 C1.790861,40 1.15871992e-15,38.209139 0,36 L0,4 C-2.705415e-16,1.790861 1.790861,-3.82769592e-17 4,0 Z" fill="#FDF4F2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

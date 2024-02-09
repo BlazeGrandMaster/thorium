@@ -1,0 +1,6 @@
+2024/02/04-06:34:36.721 19562 Creating DB /home/blaze/.config/thorium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2024/02/04-06:34:36.724 19562 Reusing MANIFEST /home/blaze/.config/thorium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/04-07:07:00.935 19563 Level-0 table #5: started
+2024/02/04-07:07:00.938 19563 Level-0 table #5: 186149 bytes OK
+2024/02/04-07:07:00.940 19563 Delete type=0 #3
+2024/02/04-07:07:00.940 19563 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

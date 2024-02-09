@@ -1,0 +1,7 @@
+2024/01/31-18:58:26.919 fa2 Reusing MANIFEST /home/blaze/.config/thorium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/31-18:58:26.919 fa2 Recovering log #3
+2024/01/31-18:58:26.919 fa2 Reusing old log /home/blaze/.config/thorium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2024/01/31-18:59:09.704 fa0 Level-0 table #5: started
+2024/01/31-18:59:09.705 fa0 Level-0 table #5: 3748 bytes OK
+2024/01/31-18:59:09.708 fa0 Delete type=0 #3
+2024/01/31-18:59:09.708 fa0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

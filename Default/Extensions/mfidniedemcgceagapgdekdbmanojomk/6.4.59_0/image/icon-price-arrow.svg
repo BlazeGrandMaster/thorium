@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_arrow</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-312.000000, -390.000000)">
+            <g transform="translate(12.000000, 61.000000)">
+                <g transform="translate(12.000000, 305.000000)">
+                    <g id="icon_arrow" transform="translate(288.000000, 24.000000)">
+                        <circle fill="#C6C6C6" cx="8" cy="8" r="8"></circle>
+                        <polyline stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(6.832150, 8.000000) scale(1, -1) rotate(-135.000000) translate(-6.832150, -8.000000) " points="4.33214959 5.5 4.76618685 10.0659627 9.33214959 10.5"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
